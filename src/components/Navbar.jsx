@@ -25,14 +25,14 @@ const Navbar = ({ toggle, dark }) => {
       <div
         className={`${
           dark == true
-            ? "h-[12vh] w-[14vw] shadow-lg  bg-black rounded-lg md:h-[8vh] md:w-[4vw],px-2  lg:h-[8vh] md:w-[4vw]"
-            : "h-[12vh] w-[14vw] shadow-lg  bg-white rounded-lg md:h-[8vh] md:w-[4vw],px-2  lg:h-[8vh] md:w-[4vw]"
+            ? "h-[12vh] w-[14vw] shadow-lg  bg-black rounded-lg md:h-[8vh] md:w-[4vw] md:px-2  lg:h-[8vh] "
+            : "h-[12vh] w-[14vw] shadow-lg  bg-white rounded-lg md:h-[8vh] md:w-[4vw] md:px-2  lg:h-[8vh] "
         }`}
       >
         <img
           className="h-full w-full overflow-hidden"
-          src="/logo.webp"
-          alt=""
+          src="/GrubGo/logo.webp"
+          alt="Grab Go"
         />
       </div>
 
