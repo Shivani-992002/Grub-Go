@@ -24,9 +24,6 @@ It allows users to explore food categories, add items to the cart, switch betwee
 ### 🛒 Cart Page
 ![Cart Page](./screenshots/cart.png)
 
-### 🌙 Dark Mode
-![Dark Mode](./screenshots/dark mode.png)
----
 
 ## 🛠️ Tech Stack
 - **React + Vite**
