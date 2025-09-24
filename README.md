@@ -35,14 +35,4 @@ It allows users to explore food categories, add items to the cart, switch betwee
 - **Context API**
 - **React Toastify**
 
----
 
-## ⚡ Installation
-
-Clone the repository and install dependencies:
-
-```bash
-git clone https://github.com/GAUTAMBISOI/GrubGo.git
-cd GrubGo
-npm install
-npm run dev
